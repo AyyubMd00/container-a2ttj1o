@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "AyyubMd00",
+  "repo": "container-a2ttj1o",
+  "name": "AyyubMd00",
+  "email": "thahamdsaad@gmail.com",
+}
